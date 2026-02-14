@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "☪ 死ぬとき死ねばいい ／歌ってみた。by天月",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2026-02-14T15:45:41.373914Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "☪ミリオンダラードリーマー",
+      "artist": "天月",
+      "has_synced": false,
+      "path": "select/pl_01_☪ミリオンダラードリーマー_天月.txt"
+    }
+  ]
+}
